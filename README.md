@@ -1,7 +1,10 @@
 # Light-Em-All
-Major Project of Fundamentals of Computer Science 2 using the language Java
+Project using the Language Java 
 
-This was the last major project of this class, in which the user has to essentially select tiles to turn the pipes in order for them to connect. As the tiles are turned and they connect, the yellow light goes through the parts that are connected to indicate that it has been lit. The goal of the game is to get the whole board lit and move the marker through the connected tiles. Moreover, one is supposed to have the least number of clicks in this scenario. 
+The goal of the game is to rotate the already placed tiles to connect pipes, and therefore create a path. When the pipes connect, it signals a yellow light to flow through the connected sections. As tiles connect, the light illuminates the path, and the goal is to light up the entire board with the fewest clicks possible. Anytime through this, the player has to use the arrows of the keyboard to move the icon through the lit and connected paths only. The bottom of the screen also keeps track of the number of clicks for the player's use. The project reinforced my understanding of grid-based game logic, user interaction handling, and optimization strategies. Moreover, I gained more knowledge of how to design efficient algorithms for detecting connected paths and updating visual feedback according to the player's actions. 
+
+
+
 
 https://github.com/user-attachments/assets/b01a1095-1406-4c1e-98c0-0012d61654ec
 
